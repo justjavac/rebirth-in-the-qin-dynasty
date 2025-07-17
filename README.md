@@ -2,6 +2,24 @@
 
 > 一名现代化工销售员，魂穿秦朝死囚，凭借残缺的未来科技数据库，掀起一场工业革命，建立日不落全球帝国的史诗级爽文。
 
+本小说由 Gemini Cli 完成，采用 gemini-2.5-pro 模型，历时 2 小时 55 分钟，实际工作时间 1 小时 14 分钟。
+
+```usage
+Interaction Summary
+Tool Calls:                 123 ( ✔ 123 ✖ 0 )
+Success Rate:               100.0%
+
+Performance
+Wall Time:                  2h 55s
+Agent Active:               1h 14m 32s
+  » API Time:               1h 14m 28s (99.9%)
+  » Tool Time:              3.6s (0.1%)
+
+Model Usage                  Reqs   Input Tokens  Output Tokens
+───────────────────────────────────────────────────────────────
+gemini-2.5-pro                195     16,294,796        258,834
+```
+
 ## 故事简介
 
 现代化工销售员高哲，魂穿秦末，开局死囚。绝境中，他激活了来自未来的科技数据库，从此开启逆天之路。蒸烈酒、造水泥、炼钢铁、研发燧发枪……凭借超越时代的知识，他从一座不毛之地开始，建立起自己的工业帝国。斗权臣、平六国、征服世界、殖民全球。这是一场极致的技术降维打击。看主角如何用钢铁和火焰重铸世界秩序，建立起一个前所未有的日不落大秦帝国……
@@ -30,19 +48,3 @@
 *   [第十八章：草原的新秩序](./content/18-草原的新秩序.md)
 *   [第十九章：丝绸之路上的枪声](./content/19-丝绸之路上的枪声.md)
 *   [第二十章：来自波斯的客人](./content/20-来自波斯的客人.md)
-
-```usage
-Interaction Summary
-Tool Calls:                 123 ( ✔ 123 ✖ 0 )
-Success Rate:               100.0%
-
-Performance
-Wall Time:                  2h 55s
-Agent Active:               1h 14m 32s
-  » API Time:               1h 14m 28s (99.9%)
-  » Tool Time:              3.6s (0.1%)
-
-Model Usage                  Reqs   Input Tokens  Output Tokens
-───────────────────────────────────────────────────────────────
-gemini-2.5-pro                195     16,294,796        258,834
-```
