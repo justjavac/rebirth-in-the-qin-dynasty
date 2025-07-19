@@ -24,6 +24,8 @@ Model Usage                  Reqs   Input Tokens  Output Tokens
 gemini-2.5-pro                195     16,294,796        258,834
 ```
 
+每次更新都使用 AI 生成，并以 [Merge Request](https://github.com/justjavac/rebirth-in-the-qin-dynasty/pulls?q=is%3Apr+is%3Aclosed) 的形式提交，附有更新用到的提示词。
+
 ## 故事简介
 
 现代化工销售员高哲，魂穿秦末，开局死囚。绝境中，他激活了来自未来的科技数据库，从此开启逆天之路。蒸烈酒、造水泥、炼钢铁、研发燧发枪……凭借超越时代的知识，他从一座不毛之地开始，建立起自己的工业帝国。斗权臣、平六国、征服世界、殖民全球。这是一场极致的技术降维打击。看主角如何用钢铁和火焰重铸世界秩序，建立起一个前所未有的日不落大秦帝国……
